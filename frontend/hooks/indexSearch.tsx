@@ -52,7 +52,7 @@ export function CheckContractIdByAddress() {
     if (!data) {
       return (
         <div>
-          <p><strong>해당 사용자는 저작권을 등록하지 않았습니다.</strong></p>
+          <p><strong>The user has not registered any copyright</strong></p>
         </div>
       );
     }
